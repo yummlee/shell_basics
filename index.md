@@ -1,10 +1,15 @@
 ## ✋🏻 Hello, I'm Yunmin Lee
 
+Feel free to reach out to me via **email**.
+🦹‍♀👝
+
+
+
 ## ✨ About Me
 
 
 
-## Education
+## 🍅🎤Education
 
 JFLHS(Jeonbuk Foreign Language High School), Spanish & English _2019.03 - 2022. 02_
 
