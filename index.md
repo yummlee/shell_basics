@@ -1,8 +1,15 @@
-## CV : Yunmin Lee
+## ✋🏻 Hello, I'm Yunmin Lee
 
-You can use the [editor on GitHub](https://github.com/yummlee/yummlee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## ✨ About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+## Education
+
+JFLHS(Jeonbuk Foreign Language High School), Spanish & English _2019.03 - 2022. 02_
+
+Ewha Womans University, English Language & Literature _2022. 03 - present_
+
 
 ### Markdown
 
